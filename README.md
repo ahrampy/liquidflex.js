@@ -1,4 +1,4 @@
-# liquidflux
+# liquidflex
 
 ## Project setup
 ```
